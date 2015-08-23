@@ -1,0 +1,3 @@
+C:\Users\PSBI\Documents\c++\Projeto3D\Projeto3D\Projeto3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSBI\Documents\c++\zumbi\Projeto3D\Projeto3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSBI\Documents\c++\backup\zumbi\Projeto3D\Projeto3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
